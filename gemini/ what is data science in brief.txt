@@ -1,0 +1,4 @@
+Jarvis Response for prompt: using your intelligence what is data science in brief 
+********************
+
+Data science, in brief, is the **multidisciplinary field of extracting knowledge and insights from data using a combination of statistical analysis, machine learning, and computer science techniques.**  It's about turning raw data into actionable intelligence to solve problems, make predictions, and drive better decision-making.  Essentially, it's the science of data.
