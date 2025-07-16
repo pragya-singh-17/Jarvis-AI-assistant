@@ -1,0 +1,17 @@
+config.py
+git.py
+geminitest.py
+
+app.py
+
+.venv/
+.idea/
+__pycache__/
+.vscode/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+/gemini/

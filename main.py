@@ -97,7 +97,7 @@ def takeCommand():
             return query
         except Exception as e:
             return "An error occurred. Sorry from Jarvis"
-    
+
 if __name__ == '__main__':
     say("Hello I am Jarvis AI")
     while True:
