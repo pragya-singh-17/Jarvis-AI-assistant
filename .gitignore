@@ -2,7 +2,7 @@ config.py
 git.py
 geminitest.py
 
-app.py
+
 
 .venv/
 .idea/
